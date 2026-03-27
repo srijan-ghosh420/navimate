@@ -1,0 +1,8 @@
+$body = @{
+    query = "give me the fastest route from Howrah to New Town avoiding crowded areas"
+} | ConvertTo-Json
+
+Invoke-RestMethod -Uri "http://127.0.0.1:5000/route" `
+-Method Post `
+-Body $body `
+-ContentType "application/json"

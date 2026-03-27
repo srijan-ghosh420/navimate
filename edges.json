@@ -1,0 +1,326 @@
+[
+  {
+    "start": "Howrah",
+    "end": "Esplanade",
+    "time": 15,
+    "distance": 5
+  },
+  {
+    "start": "Howrah",
+    "end": "Shyambazar",
+    "time": 20,
+    "distance": 7
+  },
+  {
+    "start": "Howrah",
+    "end": "Garden Reach",
+    "time": 18,
+    "distance": 6
+  },
+  {
+    "start": "Esplanade",
+    "end": "Park Street",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "Esplanade",
+    "end": "Sealdah",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Esplanade",
+    "end": "Chandni Chowk",
+    "time": 4,
+    "distance": 1
+  },
+  {
+    "start": "Park Street",
+    "end": "Camac Street",
+    "time": 3,
+    "distance": 1
+  },
+  {
+    "start": "Park Street",
+    "end": "Ballygunge",
+    "time": 12,
+    "distance": 5
+  },
+  {
+    "start": "Park Street",
+    "end": "Rabindra Sadan",
+    "time": 6,
+    "distance": 2
+  },
+  {
+    "start": "Sealdah",
+    "end": "Phoolbagan",
+    "time": 6,
+    "distance": 2
+  },
+  {
+    "start": "Sealdah",
+    "end": "Kankurgachi",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Sealdah",
+    "end": "MG Road",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "Salt Lake",
+    "end": "Sector V",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "Salt Lake",
+    "end": "Ultadanga",
+    "time": 10,
+    "distance": 4
+  },
+  {
+    "start": "Salt Lake",
+    "end": "Phoolbagan",
+    "time": 10,
+    "distance": 4
+  },
+  {
+    "start": "Sector V",
+    "end": "New Town",
+    "time": 7,
+    "distance": 3
+  },
+  {
+    "start": "Sector V",
+    "end": "Rajarhat",
+    "time": 10,
+    "distance": 4
+  },
+  {
+    "start": "New Town",
+    "end": "Rajarhat",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "New Town",
+    "end": "Airport",
+    "time": 15,
+    "distance": 6
+  },
+  {
+    "start": "Rajarhat",
+    "end": "Dum Dum",
+    "time": 12,
+    "distance": 5
+  },
+  {
+    "start": "Dum Dum",
+    "end": "Airport",
+    "time": 10,
+    "distance": 4
+  },
+  {
+    "start": "Dum Dum",
+    "end": "Shyambazar",
+    "time": 15,
+    "distance": 6
+  },
+  {
+    "start": "Dum Dum",
+    "end": "Ultadanga",
+    "time": 10,
+    "distance": 4
+  },
+  {
+    "start": "Airport",
+    "end": "Barasat",
+    "time": 20,
+    "distance": 10
+  },
+  {
+    "start": "Barasat",
+    "end": "Madhyamgram",
+    "time": 10,
+    "distance": 4
+  },
+  {
+    "start": "Madhyamgram",
+    "end": "New Barrackpore",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "New Barrackpore",
+    "end": "Dum Dum",
+    "time": 12,
+    "distance": 5
+  },
+  {
+    "start": "Kalighat",
+    "end": "Tollygunge",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Kalighat",
+    "end": "Alipore",
+    "time": 12,
+    "distance": 5
+  },
+  {
+    "start": "Garia",
+    "end": "Jadavpur",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Garia",
+    "end": "Tollygunge",
+    "time": 12,
+    "distance": 5
+  },
+  {
+    "start": "Tollygunge",
+    "end": "Alipore",
+    "time": 15,
+    "distance": 6
+  },
+  {
+    "start": "Alipore",
+    "end": "Victoria Memorial",
+    "time": 10,
+    "distance": 3
+  },
+  {
+    "start": "Alipore",
+    "end": "Behala",
+    "time": 15,
+    "distance": 6
+  },
+  {
+    "start": "Victoria Memorial",
+    "end": "Rabindra Sadan",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "Phoolbagan",
+    "end": "Kankurgachi",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "Ballygunge",
+    "end": "Kasba",
+    "time": 10,
+    "distance": 4
+  },
+  {
+    "start": "Shyambazar",
+    "end": "Bagbazar",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "Bagbazar",
+    "end": "College Street",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Ultadanga",
+    "end": "Lake Town",
+    "time": 6,
+    "distance": 2
+  },
+  {
+    "start": "Lake Town",
+    "end": "Dum Dum",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Kankurgachi",
+    "end": "Ultadanga",
+    "time": 6,
+    "distance": 2
+  },
+  {
+    "start": "Science City",
+    "end": "EM Bypass",
+    "time": 6,
+    "distance": 2
+  },
+  {
+    "start": "EM Bypass",
+    "end": "Ruby",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Ruby",
+    "end": "Kasba",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "Kasba",
+    "end": "Jadavpur",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Jadavpur",
+    "end": "Garia",
+    "time": 8,
+    "distance": 3
+  },
+  {
+    "start": "Behala",
+    "end": "Thakurpukur",
+    "time": 12,
+    "distance": 5
+  },
+  {
+    "start": "Garden Reach",
+    "end": "Metiabruz",
+    "time": 10,
+    "distance": 4
+  },
+  {
+    "start": "Chandni Chowk",
+    "end": "College Street",
+    "time": 6,
+    "distance": 2
+  },
+  {
+    "start": "College Street",
+    "end": "MG Road",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "MG Road",
+    "end": "Central",
+    "time": 5,
+    "distance": 2
+  },
+  {
+    "start": "Central",
+    "end": "Esplanade",
+    "time": 4,
+    "distance": 1
+  },
+  {
+    "start": "Rabindra Sadan",
+    "end": "Netaji Bhavan",
+    "time": 4,
+    "distance": 1
+  }
+]

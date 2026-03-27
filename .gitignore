@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary / scripts you DON'T want
+.env
+area_context.json
+context_data.json
+edges_bidirectional.json
+
+
+# MongoDB dumps (if any)
+dump/
